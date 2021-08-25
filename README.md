@@ -298,7 +298,7 @@ There are two stages to tracking your changes:
 
 Since you want to add all of the changes that you made to the `groundwork-lab-<YOUR-GITHUB-USERNAME>` Git repository, in a terminal, navigate to `groundwork-lab-<YOUR-GITHUB-USERNAME>` and run `git add .`. This will add everything in the working directory, specified by the `.`, to be committed. This step is also referred to as "staging" your files.
 
-To commit these changes, run `git commit -m "<A-ONE-LINE-DESCRIPTION-OF-THE-CHANGES>"`. For example, you might run `git commit -m "Add deliverables"`.
+To commit these changes, run `git commit -m "<A-ONE-LINE-DESCRIPTION-OF-THE-CHANGES>"`. For example, you might run `git commit -m "Add required deliverables"`.
 
 ### Step 7: Push Your Changes to the Master Copy
 
